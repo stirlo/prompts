@@ -1,0 +1,12 @@
+title: Kagi Assistant Prompts
+description: A collection of useful prompts for Kagi Assistant and other LLMs
+baseurl: ""
+url: "https://prompts.thelaboratory.cc"
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Site settings
+author: Stirling Campbell
