@@ -1,0 +1,27 @@
+---
+---
+
+@import "minima";
+
+/* Your custom CSS below */
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #1a1a1a;
+    color: #f8f9fa;
+  }
+
+  a {
+    color: #3498db;
+  }
+
+  .site-header {
+    border-color: #4b5563;
+    background-color: #1a2533;
+  }
+
+  .site-footer {
+    border-color: #4b5563;
+    background-color: #2c3e50;
+  }
+}
