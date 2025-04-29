@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+{{ content }}
+
+{% if site.posts.size > 0 %}
+  <h2>Recent Posts</h2>
+  <ul class="post-list">
+    {% for post in site.posts limit:5 %}
+    <li>
+      <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+      <p class="post-meta">{{ post.date | date: "%b %d, %Y" }}</p>
+    </li>
+    {% endfor %}
+  </ul>
+{% endif %}
