@@ -10,3 +10,25 @@ plugins:
 
 # Site settings
 author: Stirling Campbell
+
+# URL structure
+permalink: /:categories/:title/
+
+# Default layouts
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+
+# Collections for prompts
+collections:
+  prompts:
+    output: true
+    permalink: /prompts/:name/
