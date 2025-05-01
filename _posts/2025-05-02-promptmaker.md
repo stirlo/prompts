@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Prompt Maker - Advanced Prompt Engineering Assistant"
+title: "Prompt Maker - Craft Perfect AI Instructions"
 date: 2025-05-02
 categories: prompts
 tags: promptmaker kagi-assistant
@@ -10,7 +10,7 @@ tags: promptmaker kagi-assistant
 
 **Quick-summon**: !promptmaker
 
-**Purpose**: Creates highly effective AI prompts through a structured, interactive process.
+**Purpose**: Builds effective AI prompts through a guided, interactive process.
 
 **Recommended LLMs**: Claude
 
@@ -18,13 +18,14 @@ tags: promptmaker kagi-assistant
 
 ### Example Usage
 
-Use this prompt when you need help creating a new, well-structured prompt for an AI assistant:
-!promptmaker I need to create a prompt for an assistant that helps with gardening advice
+!promptmaker I need a prompt for gardening advice
 
 ### Prompt Content
 
-The prompt guides you through a comprehensive process to create effective AI prompts:
-1. Selecting the objective category for your prompt
-2. Gathering detailed specifications through targeted questions
-3. Constructing an advanced prompt with clear structure
-4. Refining the prompt interactively based on your feedback
+This tool walks you through creating powerful AI prompts in four steps:
+1. Identifying your objective from common categories
+2. Gathering key specifications through targeted questions
+3. Building a structured prompt with all necessary elements
+4. Refining your prompt with expert feedback
+
+Perfect for when you need to create specialized AI instructions but aren't sure where to start.
