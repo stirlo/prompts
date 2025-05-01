@@ -1,0 +1,8 @@
+Transform the following text into a chiastic structure (mirror-like pattern where elements appear in order A-B-C-B'-A'). 
+Identify key themes, phrases, or concepts and arrange them in a symmetrical pattern where:
+- The beginning and ending mirror each other
+- The second and second-to-last elements mirror each other
+- The central element serves as the turning point or climax
+- Preserve the meaning while creating elegant symmetry
+- For longer texts, identify 5-7 key elements to structure the chiasm
+- For shorter texts, a 3-element structure may be more appropriate
