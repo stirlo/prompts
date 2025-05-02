@@ -33,3 +33,5 @@ collections:
   prompts:
     output: true
     permalink: /prompts/:name/
+
+future: true
